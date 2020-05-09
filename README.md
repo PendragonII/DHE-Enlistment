@@ -9,4 +9,6 @@ Below is listed the enlisted military personnels and cohorts of the [Democratic 
 
 
 ## Hunter Legion:
+- [SodaDrinker2](https://namemc.com/profile/ffea691b-67e8-45d5-b391-0ce5e50bcbd2)
+- [REL_AN_TEA](4a79e2ce-4d73-4a04-985c-cb2fb6d6cce5)
 
