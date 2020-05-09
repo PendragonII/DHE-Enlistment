@@ -1,6 +1,7 @@
 # DHE-Enlistment
 
 Below is listed the enlisted military personnels and cohorts of the [Democratic Hunter Empire](http://pendragonii.github.io/empire) in accordance to [Military Law](http://pendragonii.github.io/laws/index.html#military_law).
+
 Total Army size: six Personnel, three of them are in the Elite Cohort.
 
 
