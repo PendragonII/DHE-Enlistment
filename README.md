@@ -14,5 +14,4 @@ Total conscripts: 7 Legionaries, 3 of which are in the Elite Cohort.
 ## Hunter Legion:
 - [xXvPendragonvXx](https://namemc.com/profile/d4e6b6cb-1371-4486-bbf3-5d71a53a9c50)
 - [kinghawaiian](https://namemc.com/profile/8d563153-5943-41c9-9271-cecd92c26633)
-- [SodaDrinker2](https://namemc.com/profile/ffea691b-67e8-45d5-b391-0ce5e50bcbd2) (Vassal)
 - [` _matheo_`](https://namemc.com/profile/40b0a0b7-06c8-4559-ba5f-1451f2d2e6ee)
