@@ -15,3 +15,4 @@ Total conscripts: 6 Legionaries, 3 of which are in the Elite Cohort.
 - [xXvPendragonvXx](https://namemc.com/profile/d4e6b6cb-1371-4486-bbf3-5d71a53a9c50)
 - [kinghawaiian](https://namemc.com/profile/8d563153-5943-41c9-9271-cecd92c26633)
 - [` _matheo_`](https://namemc.com/profile/40b0a0b7-06c8-4559-ba5f-1451f2d2e6ee)
+- [Dingledanny69](https://namemc.com/profile/bc24b5dd-d7df-41c5-8084-8ad7ae1ba735)
