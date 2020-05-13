@@ -1,5 +1,7 @@
 ## Contributing:
-You may propose edits using [pull requests](https://github.com/PendragonII/DHE-Enlistment/pulls) or [opening an issue](https://github.com/PendragonII/DHE-Enlistment/issues/new/choose).
+You may propose edits using [pull requests](https://github.com/PendragonII/DHE-Enlistment/pulls) or [opening an issue](https://github.com/PendragonII/DHE-Enlistment/issues/new/choose). 
+
+Opening a pull request will create a copy of the files which you modify (easier than you may think) then propose as a change. There is no programming knowledge required to modify and propose. Click [Pull request](https://github.com/PendragonII/DHE-Enlistment/pulls) then click *New pull request.*
 
 To list new users:
 
