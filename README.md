@@ -2,7 +2,7 @@
 
 Below is listed the enlisted military personnels and cohorts of the [Democratic Hunter Empire](http://pendragonii.github.io/empire) in accordance to [Military Law](http://pendragonii.github.io/laws/index.html#military_law).
 
-Total conscripts: 11 Legionaries, 3 of which are in the Elite Cohort.
+Total conscripts: 12 Legionaries, 3 of which are in the Elite Cohort.
 
 
 ## Elite Cohort Members:
@@ -20,4 +20,5 @@ Total conscripts: 11 Legionaries, 3 of which are in the Elite Cohort.
 - [potatocannon5](https://namemc.com/profile/a4b10d54-c829-4834-bf09-48f3f274e282)
 - [ElectricEvader](https://namemc.com/profile/7de6da1a-dcc3-4023-9953-654f19f88b0b)
 - [loryalt](https://namemc.com/profile/ce72d0e6-8f81-4b08-ae96-de6b44da182d)
+- [WolfBoy553](https://namemc.com/profile/4a506691-7a81-49f8-8bb1-71388025a148)
 
