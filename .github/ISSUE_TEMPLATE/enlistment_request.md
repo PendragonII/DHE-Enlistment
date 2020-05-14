@@ -1,7 +1,7 @@
 ---
 name: Enlistment_Request
 about: Request to add or remove yourself from the enlistment
-title: Enlist-Request
+title: "[Enlist-Request] "
 labels: ''
 assignees: ''
 
