@@ -25,3 +25,5 @@ To enlist either: message the Head of State via [Discord](http://discord.gg/FpPj
 - [loryalt](https://namemc.com/profile/ce72d0e6-8f81-4b08-ae96-de6b44da182d)
 - [WolfBoy553](https://namemc.com/profile/4a506691-7a81-49f8-8bb1-71388025a148)
 - [Devirjo](https://namemc.com/profile/e3deca11-4697-40d0-9098-6a7fd0ebe06a)
+- [zeus2468](https://namemc.com/profile/c7995ae9-7b2d-471b-8458-ab32ac4bb84d)
+
