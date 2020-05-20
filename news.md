@@ -8,4 +8,7 @@ The End Dimension is resetting on 2020 May 31st. All lengonaries shall attend wi
 Vampires and DHE Enemies will undoubtably be present. Health potions, Speed potions, Obisidian or other high level armor, and crossbows will be necessary.
 
 
+This event will occur on _2020 May 31_, 4pm (16:00) BST, [compare your time zone](https://time.is/BST).
+
+
 _Long live Purtania!_
