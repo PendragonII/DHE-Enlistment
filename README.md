@@ -8,7 +8,7 @@ Total conscripts: 13 Legionaries, 3 of which are in the Elite Cohort.
 To enlist either: message the Head of State via [Discord](https://discord.gg/FpPjcZt), open an [Issue](https://github.com/PendragonII/DHE-Enlistment/issues) and include your Minecraft username, or [edit this file](contributing.md) and propose your changes.
 
 
-[> > **Legonary News** < <](https://github.com/PendragonII/DHE-Enlistment/blob/master/news.md)
+[> > **Legionary News** < <](https://github.com/PendragonII/DHE-Enlistment/blob/master/news.md)
 
 
 ## Elite Cohort Members:
