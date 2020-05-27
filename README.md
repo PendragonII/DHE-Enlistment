@@ -2,7 +2,7 @@
 
 Below is listed the enlisted military personnels and cohorts of the [Democratic Hunter Empire](http://pendragonii.github.io/site/empire.html) in accordance to [Military Law](https://pendragonii.github.io/site/laws.html#military_law).
 
-Total conscripts: 13 Legionaries, 3 of which are in the Elite Cohort.
+Total conscripts: 12 Legionaries, 3 of which are in the Elite Cohort.
 
 
 To enlist either: message the Head of State via [Discord](https://discord.gg/FpPjcZt), open an [Issue](https://github.com/PendragonII/DHE-Enlistment/issues) and include your Minecraft username, or [edit this file](contributing.md) and propose your changes.
