@@ -36,6 +36,7 @@
 | LoadingStiebi                 | Pending for retrieval\.                  | False              | False                 | False  |       |
 | loryalt \(loryaltexe\)        | ce72d0e6\-8f81\-4b08\-ae96\-de6b44da182d | True               | True                  | False  |       |
 | LyTrait                       | 622c377d\-067c\-4a57\-8a5d\-97c93b3941b9 | False              | False                 | False  |       |
+| Mc_Eror                       | 5af956c9-d53e-455e-a863-c99ad94909d6     | False              | False                 | False  | NP, R |
 | NemanjaVidic                  | 71ee8cd0\-38b1\-43f9\-bbc3\-8bb6293b326e | True               | False                 | False  | NP    |
 | Novex751                      | 7ffc95e4\-ba1b\-4f37\-96b2\-9ef18eec814a | False              | False                 | False  |       |
 | onlyniki                      | f4ffa4e4\-0bfd\-403d\-84d5\-c4f41e7607ae | False              | False                 | False  |       |
