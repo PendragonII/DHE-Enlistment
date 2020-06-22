@@ -73,7 +73,7 @@ What is the Codex?
 When is an individual\'s information added?
  > Whenever the individual joines the Democratic Hunter Empire, becomes a resident, and/or receives Public benefits.
 
-Why is the Users\' Minecraft Unique Identifier \(MC-UUID\) included?
+Why is the Users\' Minecraft Unique User Identifier \(MC-UUID\) included?
  > Often times an individual will change their Minecraft Usernames, the UUID can be used to confirm a username to the actual individual. An example would be [Pendragon\'s MC-UUID](http://namemc.com/profile/d4e6b6cb-1371-4486-bbf3-5d71a53a9c50).
 
 What is a *Purtanian Beneficiary*?
