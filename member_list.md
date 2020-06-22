@@ -15,6 +15,7 @@
 | CaptainCathy \(Ausarus\)      | 699bcefe\-f72f\-404f\-b05e\-5e7f85cb5903 | True               | False                 | False  | NP    |
 | DidsLovell                    | 39203595\-444a\-49d8\-add4\-0c5f8ac411e3 | False              | False                 | False  |       |
 | Dingledanny69                 | bc24b5dd\-d7df\-41c5\-8084\-8ad7ae1ba735 | True               | True                  | False  |       |
+| DreamMMOs \(MoonFire\_Wolf\)  | c8d4008a\-243c\-4138\-818e\-541d25889358 | False              | False                 | False  |       |
 | ElectricEvader                | 7de6da1a\-dcc3\-4023\-9953\-654f19f88b0b | True               | True                  | False  |       |
 | Emberball                     | e966f0c4\-efcd\-435c\-83eb\-41ab9485dda8 | False              | True                  | True   | HC    |
 | Eoxity                        | 2688b2df\-c90a\-456e\-9377\-bd7fba609777 | False              | False                 | False  | R     |
@@ -35,7 +36,6 @@
 | LoadingStiebi                 | Pending for retrieval\.                  | False              | False                 | False  |       |
 | loryalt \(loryaltexe\)        | ce72d0e6\-8f81\-4b08\-ae96\-de6b44da182d | True               | True                  | False  |       |
 | LyTrait                       | 622c377d\-067c\-4a57\-8a5d\-97c93b3941b9 | False              | False                 | False  |       |
-| DreamMMOs \(MoonFire\_Wolf\)  | c8d4008a\-243c\-4138\-818e\-541d25889358 | False              | False                 | False  |       |
 | NemanjaVidic                  | 71ee8cd0\-38b1\-43f9\-bbc3\-8bb6293b326e | True               | False                 | False  | NP    |
 | Novex751                      | 7ffc95e4\-ba1b\-4f37\-96b2\-9ef18eec814a | False              | False                 | False  |       |
 | onlyniki                      | f4ffa4e4\-0bfd\-403d\-84d5\-c4f41e7607ae | False              | False                 | False  |       |
